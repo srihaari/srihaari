@@ -24,9 +24,15 @@ Experienced MERN stack developer passionate about creating cutting-edge solution
 # 📊 GitHub Stats:
 
 <div align="center" style="width: 600px; margin: 0 auto;">
+ <P align="center" style="width: 600px; !important">
     <img src="https://github-readme-stats.vercel.app/api?username=srihaari&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"  alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srihaari&theme=gotham&hide_border=false"  alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihaari&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+ </P>
+ <P align="center" style="width: 600px; !important">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srihaari&theme=gotham&hide_border=false"  alt="GitHub Streak">
+ </P>
+ <P align="center" style="width: 600px; !important">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihaari&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+ </P>
 </div>
 
 ## 🌐 Socials:
