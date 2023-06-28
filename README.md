@@ -21,7 +21,7 @@ Experienced MERN stack developer passionate about creating cutting-edge solution
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+## <img src="https://static-00.iconduck.com/assets.00/increase-stats-icon-506x512-buzd2nys.png" alt="GitHub Stats" style="width: 2rem"> GitHub Stats:
 
 <div align="center" style="width: 600px; margin: 0 auto;">
  <P align="center" style="width: 600px; !important">
